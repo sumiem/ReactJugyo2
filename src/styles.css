@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1{
+  font-weight: bold
+}
+
+Input{
+  border-color: red;
+  background-color: aqua;
+}
+
+/* .button{
+ background-color: aqua;
+ color: black;
+ border-style: bold;
+} */
